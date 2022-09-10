@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Some adds
+package-lock.json
+.vscode
